@@ -8,6 +8,17 @@ spansubtitle{
 	font-weight: 501;
 }
 
+parrafo{
+	padding: 100px;
+	text-align:justify;
+}
+
+parrafo p{
+	padding-left: 150px;
+	padding-right: 150px;
+	padding-top: 
+	text-align:justify;
+}
 html, body, h1, h2, h3, h4, h5, h6, p,
 header,nav,
 section {
@@ -1928,6 +1939,14 @@ body {
 	#header {
 		text-align: center;
 		padding: 3em 0 0 0;
+		background-color: #fff;
+		background-position: top left,					top left,					top left;
+		background-size: 100% 6em,					100% 6em,					auto;
+		background-repeat: no-repeat,					no-repeat,					repeat;
+	}
+#header2 {
+		text-align: center;
+		padding: 0.5em 0 0 0;
 		background-color: #fff;
 		background-position: top left,					top left,					top left;
 		background-size: 100% 6em,					100% 6em,					auto;
